@@ -74,7 +74,7 @@ Proje kapsamında elde edilen çıktılar teorik bilginin pratiğe dönüşmesin
 
 ## 5. Ek Dosyalar ve Bağlantılar
 
-- [YouTube Tanıtım Videosu](https://www.youtube.com/watch?v=3GeCIZ7Rs-U) *(video linkini buraya ekle)*
+- [YouTube Tanıtım Videosu](https://www.youtube.com/watch?v=3GeCIZ7Rs-U)
 - [Linkedin Proje Tanıtımı](https://www.linkedin.com/posts/yusuf-guney_proje-raporu-activity-7338256885969489921-hpGH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD50XoABVLRC2PZXh1B23ruv5sLKrWW8_FM)
 
 ---
